@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "299052449664",
+    "firebase_url": "https://enethawawok.firebaseio.com",
+    "storage_bucket": "enethawawok",
+    "project_id": "enethawawok"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299052449664:android:42fcf28869d5e3c0448b65",
+        "android_client_info": {
+          "package_name": "com.example.enethawawok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299052449664-9jddg1igfump6f1e0so36kvu2nub7525.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.enethawawok",
+            "certificate_hash": "2da82f4e0d67261bd4e76d69313dbdfe40a16c50"
+          }
+        },
+        {
+          "client_id": "299052449664-8vk4n4gdneso7kaeho6k55vcfv5r6uql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiwxjVN7CkazG2q97HEwp0ZoQ5VzHrvQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299052449664-8vk4n4gdneso7kaeho6k55vcfv5r6uql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
